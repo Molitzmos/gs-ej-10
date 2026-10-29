@@ -1,3 +1,4 @@
 Organización del festival musical anual.
 Confirmar la participación de las bandas.
 Definir la ubicación del escenario principal.
+Organizar la venta anticipada de entradas.
